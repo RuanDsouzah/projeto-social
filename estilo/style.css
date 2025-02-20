@@ -33,6 +33,7 @@ main{
     left: 22px;
     width: 268px;
     height: 472px;
+    border-radius: 2px;
 }
 #rede{
     text-align: right;
